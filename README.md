@@ -8,3 +8,5 @@
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={ljh040325})](https://solved.ac/{ljh040325})

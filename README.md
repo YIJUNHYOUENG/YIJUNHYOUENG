@@ -1,7 +1,8 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIJUNHYOUENG&layout=compact&langs_count=105&theme=rose_pine)
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YIJUNHYOUENG&show_icons=true&theme=rose_pine)
-
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh040325)](https://solved.ac/ljh040325)
+</hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIJUNHYOUENG&layout=compact&langs_count=105&theme=rose_pine)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YIJUNHYOUENG&show_icons=true&theme=rose_pine)
+
 
 # Language
 

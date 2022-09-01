@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIJUNHYOUENG&layout=compact&langs_count=105&theme=rose_pine)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YIJUNHYOUENG&show_icons=true&theme=rose_pine)

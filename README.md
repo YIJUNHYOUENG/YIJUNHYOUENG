@@ -1,7 +1,7 @@
 #### github
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YIJUNHYOUENG&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIJUNHYOUENG&layout=compact&langs_count=105&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIJUNHYOUENG&layout=compact&langs_count=106&theme=rose_pine)
 
 -----------
 
